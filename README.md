@@ -284,3 +284,4 @@ expo publish
 * [ ] Muestra empate cuando nadie gana y no quedan cajitas que marcar
 * [ ] Permire volver a empezar cuando termina una partida (alguien ganó o empate)
 
+# Project-React-Native
